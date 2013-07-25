@@ -405,7 +405,7 @@
 	<string name="upload_inline">Встроенный</string>
 	<string name="upload_remove">Удалить</string>
 	<string name="upload_attach_id">ID:</string>
-	<string name="upload_attach_section_title">%d файлов загружено (с %d возможных)</string>
+	<string name="upload_attach_section_title" formatted="false">%d файлов загружено (с %d возможных)</string>
 	<string name="upload_attach_limit_message">Вы загрузили максимум %d файлов</string>
 	<string name="no_prefix">Без префиксов</string>
 	<string name="open_in_broswer">Открыть в браузере</string>
