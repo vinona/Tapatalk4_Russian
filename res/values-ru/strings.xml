@@ -369,13 +369,6 @@
 	<string name="account_setting_forum_list_summary_sub">Подписаться на эту тему, для получения уведомлений с форума</string>
 	<string name="get_forum">Этот форум был помечен для просмотра.</string>
 	<string name="favoriate_accounts">Учетные записи</string>
-	<string name="account_setup_options_mail_check_frequency_5min">Каждые 5 минут</string>
-	<string name="account_setup_options_mail_check_frequency_15min">Каждые 15 минут</string>
-	<string name="account_setup_options_mail_check_frequency_30min">Каждые 30 минут</string>
-	<string name="account_setup_options_mail_check_frequency_1hour">Каждый час</string>
-	<string name="account_setup_options_mail_check_frequency_2hour">Каждые 2 часа</string>
-	<string name="account_setup_options_mail_check_frequency_4hour">Каждые 4 часа</string>
-	<string name="account_setup_options_mail_check_frequency_12hour">Каждые 12 часов</string>
 	<string name="font_size_normal">Обычный</string>
 	<string name="font_size_large">Большой</string>
 	<string name="font_size_small">Маленький</string>
@@ -699,7 +692,7 @@
 	<string name="download_failed">Ошибка загрузки</string>
 	<string name="report_forum">Этот форум был помечен для просмотра.</string>
 	<string name="image_warning_title">Хостинг изображений</string>
-	<string name="image_warning">Хостинг изображений Tapatalk предоставляет бесплатную загрузку до %d изображений для каждого форума. Вы загрузили %d изображений.</string>
+	<string name="image_warning" formatted="false">Хостинг изображений Tapatalk предоставляет бесплатную загрузку до %d изображений для каждого форума. Вы загрузили %d изображений.</string>
 	<string name="image_cutoff">Tapatalk предоставляет бесплутную загрузку %d изображений, если вы считаете этот сервис полезным, пожалуйста подумайте о приобретении нашего сервиса неограниченного обмена изобажениями.</string>
 	<string name="rename_topic">Редактировать название</string>
 	<string name="rename_topic_msg">Редактирование успешно</string>
@@ -748,7 +741,7 @@
 	<string name="dlg_restart_button">Перезагрузить</string>
 	<string name="light">Светлый</string>
 	<string name="dark">Темный</string>
-	<string name="PMAdapter_unread_message">%d сообщений (%d непрочитанных)</string>
+	<string name="PMAdapter_unread_message" formatted="false">%d сообщений (%d непрочитанных)</string>
 	<string name="tappreference_stick">Уведомления &amp; Stickies</string>
 	<string name="tappreference_stick_summary_on">Показывать все уведомления &amp; Stickies</string>
 	<string name="tappreference_stick_summary_off">Показывать только непрочитанные уведомления &amp; Stickies</string>
