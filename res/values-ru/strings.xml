@@ -314,7 +314,7 @@
 	<string name="pm_radio_inbox">Входящие</string>
 	<string name="pm_radio_outbox">Отправленные</string>
 	<string name="user_posts_conut">Количество сообщений:</string>
-	<string name="user_create_time">Зарегистрирован:</string>
+	<string name="user_create_time">Регистрация:</string>
 	<string name="menu_save">Сохранить</string>
 	<string name="username">Имя пользователя</string>
 	<string name="conver_invite_username">Логин</string>
@@ -712,7 +712,7 @@
 	<string name="forget_password">Забыли пароль ?</string>
 	<string name="tapatalk_id_signin_tips">С помощью Tapatalk ID вы можете сохранить ваши любимые форумы и быть всегда вкурсе событий на этих форумах.</string>
 	<string name="tapatalk_id_register_tips">Tapatalk ID сохраняет настрйки ваших любимых форумов, адрес вашей электронной почты не распостраняется и не отобажается для других пользователей.</string>
-	<string name="register">Зарегистрироваться</string>
+	<string name="register">Регистрация</string>
 	<string name="change_password">Изменить пароль</string>
 	<string name="logout_tapatalkId">Выйти</string>
 	<string name="old_password">Старый пароль</string>
@@ -856,12 +856,12 @@
 	<string name="welcome_tapatalk2">Начать просматривать форумы прямо сейчас.</string>
 	<string name="explore">Поиск</string>
 	<string name="explore2">Воспользуйтесь поиском, для того чтобы найти нужный форум.</string>
-	<string name="register_text1">Зарегистрироваться</string>
+	<string name="register_text1">Регистрация</string>
 	<string name="register_text2">Зарегеистрировать учётную запись Tapatalk ID.</string>
-	<string name="restore_text1">Войти в Tapatalk ID</string>
+	<string name="restore_text1">Вход в Tapatalk ID</string>
 	<string name="restore_text2">Нажмите для входа в аккаунт Tapatalk ID.</string>
 	<string name="share">Поделиться</string>
-	<string name="search_forum_hint">Например: "MIUI"</string>
+	<string name="search_forum_hint">Например: \"MIUI\"</string>
 	<string name="write_new_hint">Новая подсказка</string>
 	<string name="pick_a_forum">Выберите форум</string>
 	<string name="widget_subscribed">Форумы-Подписки</string>
@@ -874,7 +874,7 @@
 	<string name="report_dialog_postive_button">Подтвердить</string>
 	<string name="dlg_negative_button">Отмена</string>
 	<string name="tapatalkid_selectgoogleaccounttitle">Выберите аккаунт Google</string>
-	<string name="tapatalkid_updateusername_title">"У нас есть обновления!"</string>
+	<string name="tapatalkid_updateusername_title">У нас есть обновления!</string>
 	<string name="tapatalk_updateusername_msg_msg">Чтобы защитить вашу конфиденциальность, пожалуйста, установите ваше имя пользователя Tapatalk:</string>
 	<string name="tapatalk_updateusername_msg_bottom">от 3 до 32 символов</string>
 	<string name="tapatalkid_updateusername_title_valid">Еще один шаг…</string>
@@ -885,8 +885,8 @@
 	<string name="tapatalk_hasemailandpass_msg">Похоже, у вас уже есть учетная запись Tapatalk ID, введите имя своего аккаунта и пароль для подтверждения.</string>
 	<string name="tapatalk_hasemail_title">Регистрация Tapatalk ID</string>
 	<string name="tapatalk_hasemail_msg">Пожалуйста, введите адрес вашей электронной почты для завершения регистрации</string>
-	<string name="tapatalkid_shouldsignintitle">"У нас есть обновления!"</string>
-	<string name="tapatalkid_shouldsigninmsg">"Для улучшения наших хостинг изображений, вам необходимо зарегистрироваться в Tapatalk ID. Tapatalk ID представляет собой бесплатный сервис, который запоминает ваши настройки на форумах"</string>
+	<string name="tapatalkid_shouldsignintitle">У нас есть обновления!</string>
+	<string name="tapatalkid_shouldsigninmsg">Для улучшения наших хостинг изображений, вам необходимо зарегистрироваться в Tapatalk ID. Tapatalk ID представляет собой бесплатный сервис, который запоминает ваши настройки на форумах</string>
 	<string name="tapatalkid_shouldsignin_button_signin">Вход</string>
 	<string name="tapatalkid_shouldsignin_button_cancle">Отмена</string>
 	<string name="tapatalk_hasepass_title">Редакт. пароль</string>
@@ -962,7 +962,7 @@
     <string name="joinforum_resetpassworddialog_title">Сброс пароля:</string>
     <string name="joinforum_resetpassworddialog_cancel">Отмена</string>
     <string name="joinforum_forgetpassword_tips">Введите ваше имя пользователя, чтобы мы могли сбросить пароль</string>
-    <string name="joinforum_text_createaccountmessage">"Похоже, вы не имеете учетной записи, зарегистрироваться?"</string>
+    <string name="joinforum_text_createaccountmessage">Похоже, вы не имеете учетной записи, зарегистрироваться?</string>
     <string name="joinforum_text_createaccounttitle">Аккаунт не существует</string>
     <string name="joinforum_text_resetpassstep2_passhit">Пароль</string>
     <string name="joinforum_text_resetpassstep2_bottomtext">Введите новый пароль, чтобы мы могли сбросить старый</string>
@@ -972,7 +972,7 @@
     <string name="joinforum_text_createaccountdial_showpass">Показать пароль</string>
     <string name="loginforum_logintips">Ваш пароль будет выслан на</string>
     <string name="loginforum_noexist_account">Аккаунт не существует</string>
-    <string name="loginforum_create_question">"Похоже, вы не имеете учетной записи, зарегистрироваться?"</string>
+    <string name="loginforum_create_question">Похоже, вы не имеете учетной записи, зарегистрироваться?</string>
     <string name="loginforum_error_dialog_title">Произошла ошибка</string>
     <string name="loginforum_error_dialog_postive_button">Забыли пароль?</string>
     <string name="sign_in_title">Войти с помощью</string>
