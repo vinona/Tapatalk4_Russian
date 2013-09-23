@@ -707,7 +707,7 @@
 	<string name="changepassword_and_logout">Изменить пароль и выйти</string>
 	<string name="email">Электронная почта</string>
 	<string name="confirm_password">Подтвердить пароль</string>
-	<string name="forget_password">Забыли пароль ?</string>
+	<string name="forget_password">Забыли пароль?</string>
 	<string name="tapatalk_id_signin_tips">С помощью Tapatalk ID вы можете сохранить ваши любимые форумы и быть всегда вкурсе событий на этих форумах.</string>
 	<string name="tapatalk_id_register_tips">Tapatalk ID сохраняет настрйки ваших любимых форумов, адрес вашей электронной почты не распостраняется и не отобажается для других пользователей.</string>
 	<string name="register">Регистрация</string>
@@ -749,7 +749,7 @@
 	<string name="push_notifications">Push-уведомления</string>
 	<string name="push_on">ВКЛ</string>
 	<string name="push_off">ВЫКЛ</string>
-	<string name="promoted">PROMOTED</string>
+	<string name="promoted">ВЫДВИНУТО</string>
 	<string name="whatpromoted">Что это?</string>
 	<string name="tapatalkid_img_management_delete">Удалить</string>
 	<string name="tapatalkid_img_management_copyurl">Копировать URL</string>
@@ -761,13 +761,13 @@
 	<string name="moment_ago_short">1 м</string>
 	<string name="mins_ago_string">%d мин. назад</string>
 	<string name="mins_ago_string_short">%dм</string>
-	<string name="min_ago">Минуту назад</string>
+	<string name="min_ago">1 мин. назад</string>
 	<string name="min_ago_short">A m</string>
 	<string name="seconds_ago_string">%d сек. назад</string>
-	<string name="seconds_ago_string_short">%d с</string>
-	<string name="hours_ago_string">%d час. назад</string>
-	<string name="hours_ago_string_short">%d ч</string>
-	<string name="hour_ago">Час назад</string>
+	<string name="seconds_ago_string_short">%d с.</string>
+	<string name="hours_ago_string">%d ч. назад</string>
+	<string name="hours_ago_string_short">%d ч.</string>
+	<string name="hour_ago">1 ч. назад</string>
 	<string name="hour_ago_short">1 ч</string>
 	<string name="quick_reply">Быстрый ответ</string>
 	<string name="privatemessagenotification">Личные сообщения</string>
